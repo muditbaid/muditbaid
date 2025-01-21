@@ -24,6 +24,9 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Large Language Models](https://img.shields.io/badge/Large%20Language%20Models-0078D4?style=for-the-badge&logo=openai&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
+![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-0A66C2?style=for-the-badge&logo=azuredataexplorer&logoColor=white)
 
 ## 👨‍💻 Featured Projects
 
