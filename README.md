@@ -27,6 +27,10 @@
 ![Large Language Models](https://img.shields.io/badge/Large%20Language%20Models-0078D4?style=for-the-badge&logo=openai&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-0A66C2?style=for-the-badge&logo=azuredataexplorer&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
 
 ## 👨‍💻 Featured Projects
 
